@@ -611,3 +611,4 @@ all running linking and compiling files
 Reaping winning child 0x55b34a0a4200 PID 8472 
 Removing child 0x55b34a0a4200 PID 8472 from chain.
 Successfully remade target file 'all'.
+ change in the main.c file and add new line
