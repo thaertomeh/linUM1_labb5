@@ -6,6 +6,7 @@ int main ()
 	   int res,x,y;
 	   res=add(x,y);
 	   printf("Add the two numbers are:%d\n",res);
+	   printf( "Add new text line");
 	   
 	   return(0);
 }
